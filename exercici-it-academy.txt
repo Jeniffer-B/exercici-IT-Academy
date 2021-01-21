@@ -1,1 +1,2 @@
 segona prova de git
+Test del primer exercici.
